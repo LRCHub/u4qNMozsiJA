@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Glitch",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-04T14:11:58.137575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glitch",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Glitch_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Glitch",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/02_Glitch_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time Glitch",
+      "artist": "Duster",
+      "has_synced": true,
+      "path": "select/03_Time_Glitch_Duster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sail - Glitch Hop Remix Mongoose",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/04_Sail_-_Glitch_Hop_Remix_Mongoose_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breathe (The Glitch Mob Remix)",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/05_Breathe_(The_Glitch_Mob_Remix)_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breathe (The Glitch Mob Remix)",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/06_Breathe_(The_Glitch_Mob_Remix)_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Glitch",
+      "artist": "Blind Melon",
+      "has_synced": true,
+      "path": "select/07_Glitch_Blind_Melon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Glitch",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_Glitch_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seven Nation Army - The Glitch Mob Remix",
+      "artist": "The White Stripes feat. The Glitch Mob",
+      "has_synced": true,
+      "path": "select/09_Seven_Nation_Army_-_The_Glitch_Mob_Remix_The_White_Stripes_feat._The_Glitch_Mob.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seven Nation Army (Glitch Mob Remix)",
+      "artist": "The White Stripes/Glitch Mob",
+      "has_synced": true,
+      "path": "select/10_Seven_Nation_Army_(Glitch_Mob_Remix)_The_White_Stripes_Glitch_Mob.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Say (Glitch Night mix) [feat. Riu Domura, 301, GeG & Ayaka Yasumoto]",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/11_Can't_Say_(Glitch_Night_mix)_[feat._Riu_Domura,_301,_GeG_&_Ayaka_Yasumoto]_MAISONdes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Glitch",
+      "artist": "Parkway Drive",
+      "has_synced": true,
+      "path": "select/12_Glitch_Parkway_Drive.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Waiting for the End - The Glitch Mob Remix",
+      "artist": "The Glitch Mob feat. Linkin Park",
+      "has_synced": false,
+      "path": "select/13_Waiting_for_the_End_-_The_Glitch_Mob_Remix_The_Glitch_Mob_feat._Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Waiting for the End - The Glitch Mob Remix",
+      "artist": "Linkin Park/The Glitch Mob",
+      "has_synced": false,
+      "path": "select/14_Waiting_for_the_End_-_The_Glitch_Mob_Remix_Linkin_Park_The_Glitch_Mob.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glitch",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Glitch_星野源.txt"
+    }
+  ]
+}
